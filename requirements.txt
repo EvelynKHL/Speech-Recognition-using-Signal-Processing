@@ -1,0 +1,7 @@
+numpy
+pyaudio
+python_speech_features
+hmmlearn
+joblib
+SpeechRecognition
+tk
